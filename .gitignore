@@ -1,0 +1,5 @@
+*.swp
+*.out
+*.hi
+*.o
+*.class
